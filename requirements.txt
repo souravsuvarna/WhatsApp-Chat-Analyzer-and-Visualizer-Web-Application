@@ -1,0 +1,10 @@
+streamlit==1.23.1
+Pillow==9.5.0
+altair==4.2.0
+emoji==2.2.0
+matplotlib==3.5.3
+pandas==1.1.5
+plotly==5.11.0
+urlextract==1.8.0
+wordcloud==1.8.2.2
+
