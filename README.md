@@ -49,7 +49,7 @@ matplotlib : https://pypi.org/project/matplotlib/ <br>
 
 
 
-## **Live Project Link**:-
+### **Live Project Link**:-
 
 Link:- https://whatsapp-chat-analyzer-and-visualizer.onrender.com/
 
@@ -59,7 +59,7 @@ Link:- https://whatsapp-chat-analyzer-and-visualizer.onrender.com/
 
 ## **Project Status**:-
 
-Trained the model with 4 different patterns, working on the same to add more.
+We Trained the model with 4 different patterns & working on the same to add more.
 
 
 
