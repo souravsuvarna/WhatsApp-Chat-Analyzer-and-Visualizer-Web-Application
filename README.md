@@ -32,7 +32,7 @@ matplotlib : https://pypi.org/project/matplotlib/ <br>
 #### **Deployement:** [Render.com](https://render.com/)
  
  
-## ** How to Run: **
+## ** How to Run **:
 
  1. Open the project folder in IDE <br>
 
