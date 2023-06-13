@@ -19,7 +19,7 @@ pandas : https://pandas.pydata.org/docs/getting_started/install.html#installing-
 
 regex : pip install regex <br>
 
-#### **Chart libraries: <br>
+#### **Chart libraries:** <br>
 
 plotly : https://plotly.com/python/getting-started/#installation <br>
 
