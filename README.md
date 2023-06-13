@@ -11,16 +11,22 @@ Our WhatsApp chat analyzer and visualizer is a specialized tool designed to anal
  
 ## **Technology Stack**:-
 
-Python 3.7.9 : https://www.python.org/downloads/release/python-379/
-Streamlit : https://docs.streamlit.io/library/get-started/installation
-pandas : https://pandas.pydata.org/docs/getting_started/install.html#installing-from-pypi
-regex : pip install regex
+Python 3.7.9 : https://www.python.org/downloads/release/python-379/ <br>
+
+Streamlit : https://docs.streamlit.io/library/get-started/installation <br>
+
+pandas : https://pandas.pydata.org/docs/getting_started/install.html#installing-from-pypi <br>
+
+regex : pip install regex <br>
 
 Chart libraries: 
- plotly : https://plotly.com/python/getting-started/#installation
- altair : [pip install altair](https://pypi.org/project/altair/)
- seaborn : https://seaborn.pydata.org/installing.html
- matplotlib : https://pypi.org/project/matplotlib/
+ plotly : https://plotly.com/python/getting-started/#installation <br>
+
+ altair : [pip install altair](https://pypi.org/project/altair/) <br>
+ 
+ seaborn : https://seaborn.pydata.org/installing.html <br>
+ 
+ matplotlib : https://pypi.org/project/matplotlib/ <br>
 
 Deployed Using:- [Render.com](https://render.com/)
  
