@@ -31,7 +31,14 @@ matplotlib : https://pypi.org/project/matplotlib/ <br>
 
 #### **Deployement:** [Render.com](https://render.com/)
  
+## ** How to Run: **<br>
+
+ 1. Open the project folder in IDE<br>
+ 2. In terminal type **streamlit app.py** & hit enter, the script will run in localhost in your browser.<br>
  
+ Refer : https://docs.streamlit.io<br>
+ 
+
 ## **Interface**:-
 
 
