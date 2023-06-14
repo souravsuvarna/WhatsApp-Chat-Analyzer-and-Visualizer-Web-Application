@@ -11,7 +11,7 @@ Our WhatsApp chat analyzer and visualizer is a specialized tool designed to anal
 
 ### **Live Project Link**:-
 
-Link:- https://whatsapp-chat-analyzer-and-visualizer.onrender.com/
+Link:- [https://whatsapp-chat-analyzer-and-visualizer.onrender.com/](https://visualizewhatsapp.streamlit.app/)
 
  
 ## **Technology Stack**:-
@@ -34,7 +34,7 @@ seaborn : https://seaborn.pydata.org/installing.html <br>
  
 matplotlib : https://pypi.org/project/matplotlib/ <br>
 
-#### **Deployement:** [Render.com](https://render.com/)
+#### **Deployement:** https://streamlit.io/cloud
  
  
 ## **How to Run**:
