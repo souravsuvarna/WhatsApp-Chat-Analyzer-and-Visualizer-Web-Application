@@ -11,7 +11,7 @@ Our WhatsApp chat analyzer and visualizer is a specialized tool designed to anal
 
 ### **Live Project Link**:-
 
-Link:- [https://whatsapp-chat-analyzer-and-visualizer.onrender.com/](https://visualizewhatsapp.streamlit.app/)
+Link:- http://visualizewhatsapp.streamlit.app/
 
  
 ## **Technology Stack**:-
