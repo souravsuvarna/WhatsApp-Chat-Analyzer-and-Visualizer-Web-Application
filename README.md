@@ -14,7 +14,7 @@ Our WhatsApp chat analyzer and visualizer is a specialized tool designed to anal
 Link:- http://visualizewhatsapp.streamlit.app/
 
  
-## **Technology Stack**:-
+## **Requirements**:-
 
 Python 3.7.9 : https://www.python.org/downloads/release/python-379/ <br>
 
