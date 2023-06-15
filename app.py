@@ -343,7 +343,9 @@ if uploaded_file is not None:
 
     except Exception as e:
         st.write("Seems like you uploaded wrong file, Kindly Reload this page and upload correct one.")
-        st.caption( "Refer "+ hyperlink+" for further information ")
+        st.markdown(f"[{text}]({hyperlink})")
+        text="this" 
+        st.caption(f"Refer [{text}]({hyperlink}) for further information")
 
 
 
