@@ -13,7 +13,10 @@ Our WhatsApp chat analyzer and visualizer is a specialized tool designed to anal
 
 Link:- http://visualizewhatsapp.streamlit.app/
 
- 
+### **API Documentation**:-
+The API documentation for the backend code is available . You can find detailed information, usage instructions, and examples in the [API Documentation] (https://souravsuvarna.github.io/wachat-analyzer-api-docs/).<br>
+
+This API is open source and hosted on [Github](https://github.com/souravsuvarna/WhatsApp-Chat-Analyzer-API)<br>
 ## **Requirements**:-
 
 Python 3.7.9 : https://www.python.org/downloads/release/python-379/ <br>
