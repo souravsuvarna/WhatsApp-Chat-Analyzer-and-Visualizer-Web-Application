@@ -18,7 +18,7 @@ The API documentation for the backend code is available . You can find detailed 
 
 This API is open source and hosted on [Github](https://github.com/souravsuvarna/WhatsApp-Chat-Analyzer-API)<br>
 ## **Requirements**:-
-```
+
 Python 3.7.9 : https://www.python.org/downloads/release/python-379/ <br>
 
 Streamlit : https://docs.streamlit.io/library/get-started/installation <br>
@@ -26,7 +26,7 @@ Streamlit : https://docs.streamlit.io/library/get-started/installation <br>
 pandas : https://pandas.pydata.org/docs/getting_started/install.html#installing-from-pypi <br>
 
 regex : pip install regex <br>
-```
+
 #### **Chart libraries:** <br>
 
 plotly : https://plotly.com/python/getting-started/#installation <br>
